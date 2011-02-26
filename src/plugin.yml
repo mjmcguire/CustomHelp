@@ -1,5 +1,5 @@
 name: CustomHelp
 
-main: Ndoto.CustomHelp
+main: com.bukkit.Ndoto.CustomHelp.CustomHelp
 
 version: 0.1
